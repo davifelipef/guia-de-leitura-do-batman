@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/guia-de-leitura-do-batman/static/css/main.64e1847e.css",
-    "main.js": "/guia-de-leitura-do-batman/static/js/main.ca62452d.js",
+    "main.css": "/guia-de-leitura-do-batman/static/css/main.e07f9a29.css",
+    "main.js": "/guia-de-leitura-do-batman/static/js/main.61e97aaf.js",
     "static/media/batman-symbol.png": "/guia-de-leitura-do-batman/static/media/batman-symbol.e77ffdf573e985282de6.png",
     "index.html": "/guia-de-leitura-do-batman/index.html",
-    "main.64e1847e.css.map": "/guia-de-leitura-do-batman/static/css/main.64e1847e.css.map",
-    "main.ca62452d.js.map": "/guia-de-leitura-do-batman/static/js/main.ca62452d.js.map"
+    "main.e07f9a29.css.map": "/guia-de-leitura-do-batman/static/css/main.e07f9a29.css.map",
+    "main.61e97aaf.js.map": "/guia-de-leitura-do-batman/static/js/main.61e97aaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.64e1847e.css",
-    "static/js/main.ca62452d.js"
+    "static/css/main.e07f9a29.css",
+    "static/js/main.61e97aaf.js"
   ]
 }
