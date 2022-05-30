@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/guia-de-leitura-do-batman/static/js/main.3b6af314.js",
+    "main.js": "/guia-de-leitura-do-batman/static/js/main.b39a22d3.js",
     "static/media/batman-symbol.png": "/guia-de-leitura-do-batman/static/media/batman-symbol.e77ffdf573e985282de6.png",
     "index.html": "/guia-de-leitura-do-batman/index.html",
-    "main.3b6af314.js.map": "/guia-de-leitura-do-batman/static/js/main.3b6af314.js.map"
+    "main.b39a22d3.js.map": "/guia-de-leitura-do-batman/static/js/main.b39a22d3.js.map"
   },
   "entrypoints": [
-    "static/js/main.3b6af314.js"
+    "static/js/main.b39a22d3.js"
   ]
 }
