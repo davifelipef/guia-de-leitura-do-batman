@@ -6,6 +6,10 @@ import Home from './Home';
 import OComeco from './OComeco';
 
 function App() {
+  useEffect(() => {
+    document.title = "Guia de Leitura do Batman";
+  }, []);
+  
   return (
   <div className="App">
     <Routes>
